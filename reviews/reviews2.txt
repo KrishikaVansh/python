@@ -1,0 +1,17 @@
+CustomerID: QWE234
+ProductID: ITEM987654
+Date: 2025-08-04
+Rating: 5
+Review: Loved it!
+
+CustomerID: RTY567
+ProductID: GADG654321
+Date: 2025-08-05
+Rating: 4
+Review: Good value for money.
+
+CustomerID: UIO890
+ProductID: PROD123456
+Date: 2025-08-06
+Rating: 2
+Review: Did not meet expectations.

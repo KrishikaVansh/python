@@ -1,0 +1,36 @@
+=== Word Frequency ===
+python: 3
+is: 2
+simple: 1
+and: 1
+powerful: 1
+fun: 1
+to: 1
+learn: 1
+error: 1
+handling: 1
+makes: 1
+programs: 1
+reliable: 1
+
+=== Character Frequency ===
+p: 6
+y: 3
+t: 4
+h: 4
+o: 7
+n: 8
+i: 5
+s: 5
+m: 3
+l: 6
+e: 7
+a: 6
+d: 2
+w: 1
+r: 8
+f: 2
+u: 2
+g: 2
+k: 1
+b: 1

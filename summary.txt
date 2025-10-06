@@ -1,0 +1,6 @@
+Total reviews processed: 6
+Valid reviews: 6
+Invalid reviews: 0
+
+Top 3 Products:
+CustomerID: 3.83

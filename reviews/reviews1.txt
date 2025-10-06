@@ -1,0 +1,17 @@
+CustomerID: ABC123
+ProductID: PROD123456
+Date: 2025-08-01
+Rating: 5
+Review: Excellent product! Highly recommend.
+
+CustomerID: XYZ789
+ProductID: PROD123456
+Date: 2025-08-03
+Rating: 4
+Review: Works well but could be cheaper.
+
+CustomerID: LMN456
+ProductID: ITEM987654
+Date: 2025-08-02
+Rating: 3
+Review: Average quality.
