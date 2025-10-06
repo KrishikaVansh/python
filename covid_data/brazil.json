@@ -1,0 +1,7 @@
+{
+    "country": "Brazil",
+    "date": "2021-05-01",
+    "confirmed_cases": { "total": 15000000, "new": 65000 },
+    "deaths": { "total": 410000, "new": 3000 },
+    "recovered": { "total": 13500000, "new": 60000 }
+}

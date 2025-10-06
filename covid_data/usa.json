@@ -1,0 +1,7 @@
+{
+    "country": "USA",
+    "date": "2021-05-01",
+    "confirmed_cases": { "total": 32000000, "new": 60000 },
+    "deaths": { "total": 570000, "new": 900 },
+    "recovered": { "total": 25000000, "new": 55000 }
+}

@@ -1,0 +1,7 @@
+{
+    "country": "India",
+    "date": "2021-05-01",
+    "confirmed_cases": { "total": 20000000, "new": 350000 },
+    "deaths": { "total": 220000, "new": 3500 },
+    "recovered": { "total": 16000000, "new": 300000 }
+}
